@@ -1,4 +1,4 @@
-<h1> Logistics Program </h1>
+<h1> Food Hamper </h1>
 
 <h2> Contents of the README file </h2>
 
